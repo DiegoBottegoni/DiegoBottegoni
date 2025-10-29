@@ -13,10 +13,10 @@ I enjoy building modern, maintainable, and performant web applications using Rea
 - **Tools**: Git, GitHub, Postman, npm, VS Code
 
 ## 📌 What I Do  
-✅ Build and maintain React/Next.js applications with clean architecture
-✅ Design and consume RESTful APIs using Node.js and Express
-✅ Focus on performance, scalability, and teamwork in development
-✅ Continuously learn and explore modern web technologies
+✅ Build and maintain React/Next.js applications with clean architecture  
+✅ Design and consume RESTful APIs using Node.js and Express  
+✅ Focus on performance, scalability, and teamwork in development  
+✅ Continuously learn and explore modern web technologies  
 
 ## 🚀 Projects  
 Check out some of my work here:  
