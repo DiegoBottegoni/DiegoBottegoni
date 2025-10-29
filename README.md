@@ -20,7 +20,7 @@ I enjoy building modern, maintainable, and performant web applications using Rea
 
 ## 📌 About  
 Want to check out more of me?  
-🔗 [Check out my website](https://diegobottegoni.github.io/)  
+🔗 [Visit my website](https://diegobottegoni.github.io/)  
 
 ## 🌍 Where to Find Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-bottegoni/)  
