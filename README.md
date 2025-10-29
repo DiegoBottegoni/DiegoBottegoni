@@ -1,21 +1,22 @@
-# 🚀 Diego Bottegoni | Front-End Dev on the Path to Full-Stack
+# 🚀 Diego Bottegoni | Full-Stack Developer (Front-End Focus)
 
-**React.js Specialist | Passionate about UI/UX & Web Performance**
+React & Node.js Developer | Passionate about Scalable Web Apps and Clean Architecture
 
-👋 Hi, I’m **Diego Bottegoni**, a front-end developer focused on building **responsive**, **user-friendly** web applications.  
-I specialize in **React.js** and love working with modern web technologies to create seamless experiences.  
+👋 Hi, I’m Diego Bottegoni, a full-stack developer with focus on front-end development.
+I enjoy building modern, maintainable, and performant web applications using React, TypeScript, and Node.js, following clean and scalable architectures. 
 
 ## 🛠️ Tech Stack  
 - **Frontend**: React.js, Vite, Tailwind CSS, Axios, React Router  
+- **Backend**: Node.js, Express, RESTful APIs
+- **Databases**: PostgreSQL, MySQL, MongoDB
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3  
-- **Backend (Familiar with)**: Node.js, Express  
-- **Databases (Familiar with)**: MongoDB, MySQL
-- **Tools**: Git, GitHub, Vite, npm, Postman  
+- **Tools**: Git, GitHub, Postman, npm, VS Code
 
 ## 📌 What I Do  
-✅ Build modern **React.js applications** with best practices  
-✅ Focus on **performance, accessibility, and scalability**  
-✅ Work with APIs and manage state efficiently  
+✅ Build and maintain React/Next.js applications with clean architecture
+✅ Design and consume RESTful APIs using Node.js and Express
+✅ Focus on performance, scalability, and teamwork in development
+✅ Continuously learn and explore modern web technologies
 
 ## 🚀 Projects  
 Check out some of my work here:  
