@@ -18,9 +18,9 @@ I enjoy building modern, maintainable, and performant web applications using Rea
 ✅ Focus on performance, scalability, and teamwork in development  
 ✅ Continuously learn and explore modern web technologies  
 
-## 🚀 Projects  
-Check out some of my work here:  
-🔗 [Live Projects Showcase](https://content-cms-projects.netlify.app/)  
+## 📌 About  
+Check out more about my work and experience here:  
+🔗 [My Web](https://https://diegobottegoni.github.io/)  
 
 ## 🌍 Where to Find Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-bottegoni/)  
